@@ -1,0 +1,123 @@
+/*fonts*/
+@font-face{
+  font-family: Bluestar-Regular;
+  src: url(Bluestar-Regular.woff);
+}
+.main-container{
+  max-width: 350px;
+  margin-top:50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.boxF , 
+.boxT{
+  border: 1px solid  #bfbfbf;
+  border-radius: 2px;
+  padding: 10px;
+  margin-top: 15px;
+  max-width: 350px;
+  
+}
+.head{   /*Instagram LOGO or TEXT*/
+  text-align: center;
+  font-family: "Bluestar-Regular", cursive;
+  font-weight: 500;
+  font-size:1.4cm;
+  font-style: normal;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.frmO,
+.frmT, 
+.frmTh{ /* From content*/
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 7px;
+}
+.username,
+.passcode{
+   width:6cm;
+   height:0.9cm;
+   border-radius: 2px;
+   border-style: solid;
+   background-color: #fafafa;
+}
+.butn{
+  width: 6.2cm;
+  height:0.8cm;
+  border-radius: 5px;
+  border-style: solid;
+  color:#f5f6f6;
+  background-color:#4bb4f8;
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:500;
+  font-style: normal;
+  font-size: 15px;
+}
+/*or between  line*/
+.ortofp{
+  margin: 24px 58px 24px 58px;
+}
+h4 {
+  width: 100%; 
+  text-align: center; 
+  border-bottom: 1px solid #8c8c8c; 
+  color: #8c8c8c;
+  line-height: 0.1em;
+  margin: 10px 0 20px; 
+  font-family: sans-serif;
+  font-optical-sizing: auto;
+  font-weight:400;
+  font-style: normal;
+} 
+
+h4 span { 
+   background:#fff; 
+   padding:0 10px; 
+}
+
+/*log in FB*/
+.loginFB{
+  text-align: center;
+  color:#364f86 ;
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:450;
+  font-style: normal;
+  
+}
+/* seacond box*/
+.boxT{
+  padding-top: 15px;
+  padding-bottom:15px;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #262626;
+}
+/*sign up*/
+.signup{
+  color:#4ab4f7 ;
+}
+/*Get the APP*/
+.boxTh{
+  padding: 0px 10px 0px 10px;
+  max-width: 350px;
+  max-height:100px;
+  
+}
+.Gta{
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-weight: 450;
+  font-style: normal;
+  color: #4d4d4d;
+}
+img{
+  display: block;
+  margin-left: 26%;
+  width: 4.5cm;
+}
