@@ -1,3 +1,3 @@
-## preview od the code
+## preview of the code
 
-- https://r-nareshkumar.github.io/Instagram-loginpage-template/
+##### https://r-nareshkumar.github.io/Instagram-loginpage-template/
